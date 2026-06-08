@@ -7,6 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
+# Short Demo Video
+
+![RetailGPT Demo]()
 
 ## 🎥 Demo Video
 
