@@ -8,6 +8,26 @@
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-RetailGPT-red)](
+
+)
+
+# What You’ll See
+
+* End-to-end Walmart sales forecasting workflow
+* Interactive KPI dashboard
+* Regression analysis (OLS, Ridge, Lasso)
+* ARIMA & SARIMA forecasting
+* Anomaly detection using Isolation Forest
+* Explainable AI with SHAP and PDP
+* Agentic AI business assistant
+* Automated PDF report generation
+
+👉 Click the badge above to watch the full demonstration.
+
+
 ## 📐 Architecture Overview
 
 ```
